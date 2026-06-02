@@ -8,12 +8,9 @@
 
 </div>
 
-<br>
-
 <table>
 <tr>
-
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### 📚 Atualmente estudando
 
@@ -24,20 +21,13 @@
 
 </td>
 
-<td width="5%" align="center">
-
-|
-
-</td>
-
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 Projeto em andamento
 
 * Sistema CRUD em ASP.NET
 
 </td>
-
 </tr>
 </table>
 
