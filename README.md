@@ -8,10 +8,6 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 📚 Atualmente estudando
 
 * C#
@@ -19,17 +15,6 @@
 * SQL Server
 * JavaScript
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Projeto em andamento
-
-* Sistema CRUD em ASP.NET
-
-</td>
-</tr>
-</table>
 
 ### 🛠️ Tecnologias
 
