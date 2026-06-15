@@ -4,7 +4,7 @@
 
 🎓 Estudante de Ciência da Computação
 
-💻 Desenvolvedora Full Stack em formação
+💻 Desenvolvedora .NET em formação
 
 </div>
 
