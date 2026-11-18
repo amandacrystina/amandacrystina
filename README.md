@@ -11,9 +11,8 @@
 ### 📚 Atualmente estudando
 
 * C#
-* ASP.NET
-* SQL Server
-* JavaScript
+* Git
+* Docker
 
 
 ### 🛠️ Tecnologias
